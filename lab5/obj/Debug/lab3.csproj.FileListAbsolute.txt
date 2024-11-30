@@ -1,0 +1,53 @@
+C:\Users\bassam\Desktop\compilar\lab3\bin\Debug\lab1.exe.config
+C:\Users\bassam\Desktop\compilar\lab3\bin\Debug\lab1.exe
+C:\Users\bassam\Desktop\compilar\lab3\bin\Debug\lab1.pdb
+C:\Users\bassam\Desktop\compilar\lab3\bin\Debug\Antlr4.Runtime.Standard.dll
+C:\Users\bassam\Desktop\compilar\lab3\bin\Debug\Antlr4.Runtime.Standard.xml
+C:\Users\bassam\Desktop\compilar\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+C:\Users\bassam\Desktop\compilar\lab3\obj\Debug\lab1.Form1.resources
+C:\Users\bassam\Desktop\compilar\lab3\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\bassam\Desktop\compilar\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\Users\bassam\Desktop\compilar\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\bassam\Desktop\compilar\lab3\obj\Debug\lab3.csproj.CopyComplete
+C:\Users\bassam\Desktop\compilar\lab3\obj\Debug\lab1.exe
+C:\Users\bassam\Desktop\compilar\lab3\obj\Debug\lab1.pdb
+C:\Users\bassam\Desktop\compilar\lab5\bin\Debug\lab1.exe.config
+C:\Users\bassam\Desktop\compilar\lab5\bin\Debug\lab1.exe
+C:\Users\bassam\Desktop\compilar\lab5\bin\Debug\lab1.pdb
+C:\Users\bassam\Desktop\compilar\lab5\bin\Debug\Antlr4.Runtime.Standard.dll
+C:\Users\bassam\Desktop\compilar\lab5\bin\Debug\Antlr4.Runtime.Standard.xml
+C:\Users\bassam\Desktop\compilar\lab5\obj\Debug\lab3.csproj.AssemblyReference.cache
+C:\Users\bassam\Desktop\compilar\lab5\obj\Debug\lab1.Form1.resources
+C:\Users\bassam\Desktop\compilar\lab5\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\bassam\Desktop\compilar\lab5\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\Users\bassam\Desktop\compilar\lab5\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\bassam\Desktop\compilar\lab5\obj\Debug\lab3.csproj.CopyComplete
+C:\Users\bassam\Desktop\compilar\lab5\obj\Debug\lab1.exe
+C:\Users\bassam\Desktop\compilar\lab5\obj\Debug\lab1.pdb
+K:\Desktop\compilar\lab5\bin\Debug\lab1.exe.config
+K:\Desktop\compilar\lab5\bin\Debug\lab1.exe
+K:\Desktop\compilar\lab5\bin\Debug\lab1.pdb
+K:\Desktop\compilar\lab5\bin\Debug\Antlr4.Runtime.Standard.dll
+K:\Desktop\compilar\lab5\bin\Debug\Antlr4.Runtime.Standard.xml
+K:\Desktop\compilar\lab5\obj\Debug\lab3.csproj.AssemblyReference.cache
+K:\Desktop\compilar\lab5\obj\Debug\lab1.Form1.resources
+K:\Desktop\compilar\lab5\obj\Debug\lab1.Properties.Resources.resources
+K:\Desktop\compilar\lab5\obj\Debug\lab3.csproj.GenerateResource.cache
+K:\Desktop\compilar\lab5\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+K:\Desktop\compilar\lab5\obj\Debug\lab3.csproj.CopyComplete
+K:\Desktop\compilar\lab5\obj\Debug\lab1.exe
+K:\Desktop\compilar\lab5\obj\Debug\lab1.pdb
+C:\Users\Computer\Desktop\رابع تقنية\مترجمات عملي\Project Compilar\lab5\bin\Debug\lab1.exe.config
+C:\Users\Computer\Desktop\رابع تقنية\مترجمات عملي\Project Compilar\lab5\obj\Debug\lab1.exe
+C:\Users\Computer\Desktop\رابع تقنية\مترجمات عملي\Project Compilar\lab5\obj\Debug\lab1.pdb
+C:\Users\Computer\Desktop\رابع تقنية\مترجمات عملي\Project Compilar\lab5\bin\Debug\lab1.exe
+C:\Users\Computer\Desktop\رابع تقنية\مترجمات عملي\Project Compilar\lab5\bin\Debug\lab1.pdb
+C:\Users\Computer\Desktop\رابع تقنية\مترجمات عملي\Project Compilar\lab5\bin\Debug\Antlr4.Runtime.Standard.dll
+C:\Users\Computer\Desktop\رابع تقنية\مترجمات عملي\Project Compilar\lab5\bin\Debug\Antlr4.Runtime.Standard.xml
+C:\Users\Computer\Desktop\رابع تقنية\مترجمات عملي\Project Compilar\lab5\obj\Debug\lab3.csproj.AssemblyReference.cache
+C:\Users\Computer\Desktop\رابع تقنية\مترجمات عملي\Project Compilar\lab5\obj\Debug\lab3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Computer\Desktop\رابع تقنية\مترجمات عملي\Project Compilar\lab5\obj\Debug\lab1.Form1.resources
+C:\Users\Computer\Desktop\رابع تقنية\مترجمات عملي\Project Compilar\lab5\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\Computer\Desktop\رابع تقنية\مترجمات عملي\Project Compilar\lab5\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\Users\Computer\Desktop\رابع تقنية\مترجمات عملي\Project Compilar\lab5\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Desktop\رابع تقنية\مترجمات عملي\Project Compilar\lab5\obj\Debug\lab3.csproj.CopyComplete

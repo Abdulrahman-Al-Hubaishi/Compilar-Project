@@ -1,0 +1,13 @@
+C:\Users\bassam\Desktop\compilar\lab2\bin\Debug\lab1.exe.config
+C:\Users\bassam\Desktop\compilar\lab2\bin\Debug\lab1.exe
+C:\Users\bassam\Desktop\compilar\lab2\bin\Debug\lab1.pdb
+C:\Users\bassam\Desktop\compilar\lab2\bin\Debug\Antlr4.Runtime.Standard.dll
+C:\Users\bassam\Desktop\compilar\lab2\bin\Debug\Antlr4.Runtime.Standard.xml
+C:\Users\bassam\Desktop\compilar\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+C:\Users\bassam\Desktop\compilar\lab2\obj\Debug\lab1.Form1.resources
+C:\Users\bassam\Desktop\compilar\lab2\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\bassam\Desktop\compilar\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\Users\bassam\Desktop\compilar\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\bassam\Desktop\compilar\lab2\obj\Debug\lab2.csproj.CopyComplete
+C:\Users\bassam\Desktop\compilar\lab2\obj\Debug\lab1.exe
+C:\Users\bassam\Desktop\compilar\lab2\obj\Debug\lab1.pdb
